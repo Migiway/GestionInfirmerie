@@ -1,0 +1,16 @@
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\DAL\bin\Debug\DAL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\DAL\bin\Debug\DAL.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\DAL\bin\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\DAL\bin\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\DAL\obj\Debug\DAL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\DAL\obj\Debug\DAL.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\bin\Debug\DAL.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\bin\Debug\DAL.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\bin\Debug\BO.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\bin\Debug\BO.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\obj\Debug\DAL.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\obj\Debug\DAL.pdb

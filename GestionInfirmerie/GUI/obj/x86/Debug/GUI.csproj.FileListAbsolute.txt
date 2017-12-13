@@ -1,0 +1,36 @@
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login_frm.resources
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\GUI.exe
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\GUI.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\BLL.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\BO.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\DAL.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\BLL.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\BO.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\DAL.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Login_frm.resources
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\bin\Debug\GUI.exe.config
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.Acceuil.resources
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.AjoutEleve.resources
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.GestionEleve.resources
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\GUI\obj\x86\Debug\GUI.ModifEleve.resources
