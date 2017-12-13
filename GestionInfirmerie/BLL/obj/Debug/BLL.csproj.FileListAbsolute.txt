@@ -1,0 +1,20 @@
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\bin\Debug\BLL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\bin\Debug\BLL.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\bin\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\bin\Debug\DAL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\bin\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\bin\Debug\DAL.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\obj\Debug\BLL.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BLL\obj\Debug\BLL.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\bin\Debug\BLL.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\bin\Debug\BLL.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\bin\Debug\BO.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\bin\Debug\DAL.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\bin\Debug\BO.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\bin\Debug\DAL.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\obj\Debug\BLL.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\obj\Debug\BLL.pdb
