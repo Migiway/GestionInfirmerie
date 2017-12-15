@@ -10,3 +10,9 @@ C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\obj\Debug\BO.
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\obj\Debug\BO.dll
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.pdb

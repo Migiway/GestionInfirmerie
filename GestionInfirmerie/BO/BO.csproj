@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MedicamentBO.cs" />
     <Compile Include="OBGestionEleve.cs" />
     <Compile Include="OBAcceuil.cs" />
     <Compile Include="Utilisateurs.cs" />

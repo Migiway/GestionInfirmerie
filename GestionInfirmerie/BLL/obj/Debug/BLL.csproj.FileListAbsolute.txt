@@ -18,3 +18,13 @@ C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\obj\Debug\BL
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\obj\Debug\BLL.dll
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BLL\obj\Debug\BLL.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\obj\Debug\BLL.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\obj\Debug\BLL.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\bin\Debug\BLL.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\bin\Debug\BLL.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\bin\Debug\BO.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\bin\Debug\DAL.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\bin\Debug\BO.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BLL\bin\Debug\DAL.pdb
