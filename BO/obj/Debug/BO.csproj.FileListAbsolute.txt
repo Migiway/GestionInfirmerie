@@ -1,0 +1,18 @@
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\Omen\Documents\Visual Studio 2017\Projects\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\bin\Debug\BO.pdb
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\obj\Debug\BO.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\BO\bin\Debug\BO.pdb
