@@ -78,11 +78,23 @@
     <Compile Include="AjoutEleve.Designer.cs">
       <DependentUpon>AjoutEleve.cs</DependentUpon>
     </Compile>
+    <Compile Include="AjoutMedic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutMedic.Designer.cs">
+      <DependentUpon>AjoutMedic.cs</DependentUpon>
+    </Compile>
     <Compile Include="GestionEleve.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GestionEleve.Designer.cs">
       <DependentUpon>GestionEleve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionMedicament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionMedicament.Designer.cs">
+      <DependentUpon>GestionMedicament.cs</DependentUpon>
     </Compile>
     <Compile Include="Login_frm.cs">
       <SubType>Form</SubType>
@@ -104,8 +116,14 @@
     <EmbeddedResource Include="AjoutEleve.resx">
       <DependentUpon>AjoutEleve.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AjoutMedic.resx">
+      <DependentUpon>AjoutMedic.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GestionEleve.resx">
       <DependentUpon>GestionEleve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionMedicament.resx">
+      <DependentUpon>GestionMedicament.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login_frm.resx">
       <DependentUpon>Login_frm.cs</DependentUpon>
@@ -121,6 +139,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.config">
       <SubType>Designer</SubType>
@@ -151,6 +170,12 @@
       <Project>{f516128f-2324-4bf6-af22-39cf34aea987}</Project>
       <Name>BO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Error_381599.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_sign-check_299110.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -30,7 +30,7 @@ namespace GUI
 
         private void BtValidationAjout_Click(object sender, EventArgs e)
         {
-            string NomEleve;
+             string NomEleve;
              string PrenomEleve;
              DateTime DateNaissanceEle;
              string TelephoneEle;

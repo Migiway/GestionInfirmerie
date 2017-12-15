@@ -79,6 +79,7 @@
             this.BtGestionMedicament.TabIndex = 3;
             this.BtGestionMedicament.Text = "Géré les médicaments";
             this.BtGestionMedicament.UseVisualStyleBackColor = true;
+            this.BtGestionMedicament.Click += new System.EventHandler(this.BtGestionMedicament_Click);
             // 
             // BtDeconnexion
             // 

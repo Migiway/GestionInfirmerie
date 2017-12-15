@@ -14,3 +14,11 @@ C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\obj\Debug\DA
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\obj\Debug\DAL.dll
 C:\Users\Jojal\source\repos\GestionInfirmerie\GestionInfirmerie\DAL\obj\Debug\DAL.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\DAL\obj\Debug\DAL.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\DAL\obj\Debug\DAL.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\DAL\bin\Debug\DAL.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\DAL\bin\Debug\DAL.pdb
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\DAL\bin\Debug\BO.dll
+C:\Users\Hedi\Desktop\PPE c#\GestionInfirmerie-master\GestionInfirmerie\DAL\bin\Debug\BO.pdb

@@ -51,7 +51,7 @@ namespace GUI
 
         private void BtDeconnexion_Click(object sender, EventArgs e)
         {
-           
+
             Login_frm login_Frm = new Login_frm();
             login_Frm.Show();
             this.Close();
@@ -83,7 +83,7 @@ namespace GUI
             //echange de colonne
             DataViewAcc.Columns[4].DisplayIndex = 0;
 
-            LabelAnnee.Text = "Synthese du: " + CalendrierDebut.Value.Month +"/"+ CalendrierDebut.Value.Year + " au " + CalendrierFin.Value.Month + "/" + CalendrierFin.Value.Year;
+            LabelAnnee.Text = "Synthese du: " + CalendrierDebut.Value.Month + "/" + CalendrierDebut.Value.Year + " au " + CalendrierFin.Value.Month + "/" + CalendrierFin.Value.Year;
 
         }
 
@@ -91,6 +91,13 @@ namespace GUI
         {
             GestionEleve gestionEleve_Frm = new GestionEleve();
             gestionEleve_Frm.Show();
+            this.Hide();
+        }
+
+        private void BtGestionMedicament_Click(object sender, EventArgs e)
+        {
+            GestionMedicament gestionMedicament_Frm = new GestionMedicament();
+            gestionMedicament_Frm.Show();
             this.Hide();
         }
     }

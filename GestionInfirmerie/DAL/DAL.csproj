@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Connexion.cs" />
     <Compile Include="GestionEleveDAL.cs" />
+    <Compile Include="GestionMedicamentDAL.cs" />
     <Compile Include="LoginDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
