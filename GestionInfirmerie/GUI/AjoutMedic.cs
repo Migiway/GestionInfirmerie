@@ -25,11 +25,19 @@ namespace GUI
         {
             
             string nomMedicament = textBoxNomMedicAjout.Text;
-            GestionMedicamentBLL.AjoutMedic(nomMedicament);
-            MessageBox.Show("Le médicament a bien été ajouté");
-            GestionMedicament GestionMedicament = new GestionMedicament();
-            GestionMedicament.Show();
-            this.Hide();
+            if(nomMedicament == string.Empty)
+            { 
+                textBoxNomMedicAjout.Focus();
+                errorProviderNomMedicament.SetError(textBoxNomMedicAjout, "Veuillez saisir le nom du médicament à ajouter"); ;
+            }
+            else
+            {
+                GestionMedicamentBLL.AjoutMedic(nomMedicament);
+                MessageBox.Show("Le médicament a bien été ajouté");
+                GestionMedicament GestionMedicament = new GestionMedicament();
+                GestionMedicament.Show();
+                this.Hide();
+            }
         }
 
         private void btnRetourAjout_Click(object sender, EventArgs e)
@@ -38,6 +46,7 @@ namespace GUI
             GestionMedicament.Show();
             this.Hide();
         }
+
     }
     
 }

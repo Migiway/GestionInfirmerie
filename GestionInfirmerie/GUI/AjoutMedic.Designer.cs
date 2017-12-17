@@ -90,7 +90,7 @@
             // 
             // AjoutMedic
             // 
-            this.ClientSize = new System.Drawing.Size(284, 220);
+            this.ClientSize = new System.Drawing.Size(310, 220);
             this.Controls.Add(this.textBoxNomMedicAjout);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
