@@ -96,6 +96,11 @@
     <Compile Include="GestionMedicament.Designer.cs">
       <DependentUpon>GestionMedicament.cs</DependentUpon>
     </Compile>
+    <Compile Include="gestion_infirmerieDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gestion_infirmerieDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Login_frm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -143,6 +148,17 @@
     </Compile>
     <None Include="app.config">
       <SubType>Designer</SubType>
+    </None>
+    <None Include="gestion_infirmerieDataSet.xsc">
+      <DependentUpon>gestion_infirmerieDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="gestion_infirmerieDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gestion_infirmerieDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gestion_infirmerieDataSet.xss">
+      <DependentUpon>gestion_infirmerieDataSet.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
